@@ -1,0 +1,4 @@
+bash
+====
+
+Personal bash setup
